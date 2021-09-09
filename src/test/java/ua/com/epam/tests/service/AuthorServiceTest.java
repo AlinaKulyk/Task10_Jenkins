@@ -27,7 +27,7 @@ import static org.mockito.Mockito.*;
 
 @ExtendWith(MockitoExtension.class)
 public class AuthorServiceTest {
-//demo version
+
     // просьба к Мокито: создать объект-макет репозитория аторов
     // и сохранить ссылку на него в поле authorRepository
     @Mock
